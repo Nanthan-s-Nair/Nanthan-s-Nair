@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nanthan-s-Nair
-- 👀 I’m interested in coding in exotic languages
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate with like minded coders
+- 👀 I’m interested in coding in exotic languages and ml model development 
+- 🌱 I’m currently learning Java,app dev
+- 💞️ I’m looking to collaborate with like-minded coders
 - 📫 How to reach me @ nanthansnair4@gamil.com
 
 <!---
