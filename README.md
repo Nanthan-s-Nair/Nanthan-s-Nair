@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nanthan-s-Nair
 - 👀 I’m interested in coding in exotic languages and ml model development 
 - 🌱 I’m currently learning Java,app dev
+- 💻 Focusing to become a Full Stack Web Developer
 - 💞️ I’m looking to collaborate with like-minded coders
 - 📫 How to reach me @ nanthansnair4@gamil.com
 
