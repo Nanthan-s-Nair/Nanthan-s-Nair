@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="/Users/nanthansnair/Downloads/github-header-image.png"/>
+  ![Header](./Users/nanthansnair/Downloads/github-header-image.png)
 </div>
 <hr/>
 
