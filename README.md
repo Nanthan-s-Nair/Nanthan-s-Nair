@@ -1,20 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-<hr/>
 <h3 align="center">👨🏻‍💻 About Me.....</h3>
-
-###
-
 <img align="right" height="239" src="https://codictionhub.com/wp-content/uploads/2024/01/coworking-male-programmer-writing-program-code.gif"  />
-
-###
-
 <h4 align="left">👋 Hi, I'm @Nanthan-s-Nair<br><br>💻 I'm interested in coding in exotic languages and ML model development<br><br>📚 I'm currently learning Full Stack Web Development<br><br>🤝 I'm looking to collaborate with like-minded coders<br><br>🔗 Check out my Portfolio Website https://my-portfolio-hwmt.vercel.app/</h4>
 
-###
 <hr/>
 <p align="center">⚒️Tech Stack</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -51,8 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
-
-###
 <hr/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nanthan-s-Nair&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
