@@ -4,7 +4,7 @@
 <h4 align="left">👋 Hi, I'm @Nanthan-s-Nair<br><br>💻 I'm interested in coding in exotic languages and ML model development<br><br>📚 I'm currently learning Full Stack Web Development<br><br>🤝 I'm looking to collaborate with like-minded coders<br><br>🔗 Check out my Portfolio Website https://my-portfolio-hwmt.vercel.app/</h4>
 
 <hr/>
-<p align="center">⚒️Tech Stack</p>
+<h3 align="center">⚒️Tech Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
